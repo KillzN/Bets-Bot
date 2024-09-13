@@ -4,10 +4,10 @@
 /*       |- [ ⚠ ] - CREDITOS DEL CODIGO - [ ⚠ ] -|      */
 /*     —◉ DESAROLLADO POR OTOSAKA:                       */
 /*     ◉ Otosaka (https://github.com/6otosaka9)          */
-/*     ◉ Número: wa.me/56983073328                       */
+/*     ◉ Número: wa.me/393770978499                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ KillzN (https://github.com/KillzN)  */
+/*     ◉ Betsa (https://github.com/Betsa)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/

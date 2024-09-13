@@ -36,7 +36,7 @@ ${tradutor.texto1[15]}
 ${tradutor.texto1[16]}
 `.trim();
   const buttonMessage= {
-    'document': {url: `https://www.instagram.com/ineffable.mvrco/`},
+    'document': {url: `https://www.instagram.com/betsxx.lz/`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
     'fileLength': 99999999999999,
@@ -45,7 +45,7 @@ ${tradutor.texto1[16]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://www.instagram.com/ineffable.mvrco/',
+        'mediaUrl': 'https://www.instagram.com/betsxx.lz/',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,

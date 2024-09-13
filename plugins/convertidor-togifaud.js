@@ -1,4 +1,4 @@
-/* 𝐂𝐑𝐄𝐀𝐃𝐎 𝐏𝐎𝐑 https://github.com/KillzN */
+/* 𝐂𝐑𝐄𝐀𝐃𝐎 𝐏𝐎𝐑 https://github.com/Betsa */
 
 
 const handler = async (m, {conn, usedPrefix, command}) => {

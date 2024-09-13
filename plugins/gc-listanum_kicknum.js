@@ -1,5 +1,5 @@
 /*              Codigo Creado Por Bruno Sobrino
-      (https://github.com/KillzN/KILLZN - BOT)
+      (https://github.com/Betsa/Betsa - BOT)
 */
 
 

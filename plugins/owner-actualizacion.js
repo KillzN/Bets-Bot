@@ -1,12 +1,12 @@
-// adaptado por Diego : KILLZN - BOT
+// adaptado por Diego : Betsa - BOT
 
 import axios from 'axios';
 
 let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
-const owner = 'KillzN';
-const repo = 'KILLZN - BOT';
+const owner = 'Betsa';
+const repo = 'Betsa - BOT';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language

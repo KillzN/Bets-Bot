@@ -13,7 +13,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 ${tradutor.texto1[1]}
 1.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC`.trim();
   const buttonMessage= {
-    'document': {url: `https://www.instagram.com/ineffable.mvrco/`},
+    'document': {url: `https://www.instagram.com/betsxx.lz/`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -22,7 +22,7 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://www.instagram.com/ineffable.mvrco/',
+        'mediaUrl': 'https://www.instagram.com/betsxx.lz/',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,
